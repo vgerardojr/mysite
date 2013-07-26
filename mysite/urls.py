@@ -1,4 +1,4 @@
-from django.conf.urls import patterns, include, url
+from django.conf.urls.defaults import *
 from mysite.views import current_datetime
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
