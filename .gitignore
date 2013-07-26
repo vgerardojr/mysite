@@ -1,0 +1,16 @@
+#
+# Fuentes compiladas
+#
+*.class
+*.dll
+*.exe
+*.[oa]
+*.so
+*.pyc
+
+#
+# Ficheros generados por el SO
+#
+.DS_Store?
+ehthumbs.db
+Thumbs.db
