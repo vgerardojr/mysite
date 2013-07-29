@@ -7,6 +7,7 @@
 *.[oa]
 *.so
 *.pyc
+*.project
 
 #
 # Ficheros generados por el SO
