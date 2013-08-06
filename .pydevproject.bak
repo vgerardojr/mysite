@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<<<<<<< HEAD
+<?eclipse-pydev version="1.0"?>
+
+<pydev_project>
+=======
+<?eclipse-pydev version="1.0"?><pydev_project>
+>>>>>>> 4f075097ca19bf7a179fd52424fd2bcab0e91c45
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
+</pydev_project>
