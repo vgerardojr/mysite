@@ -1,18 +1,18 @@
 from django.conf.urls import *
 from mysite.views import current_datetime
-# Uncomment the next two lines to enable the admin:
+# Descomenta las siguientes 2 lineas para habilitar el administrador:
 # from django.contrib import admin
 # admin.autodiscover()
 
 urlpatterns = patterns('',
     (r'^time/$', current_datetime),
-    # Examples:
+    # Ejemplos:
     # url(r'^$', 'mysite.views.home', name='home'),
     # url(r'^mysite/', include('mysite.foo.urls')),
 
-    # Uncomment the admin/doc line below to enable admin documentation:
+    # Descomente admin/doc en la linea siguiente para hablitar la documentación del administrador:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
 
-    # Uncomment the next line to enable the admin:
+    # Descomenta la siguientes linea para habilitar el administrador:
     # url(r'^admin/', include(admin.site.urls)),
 )
