@@ -1,3 +1,4 @@
+#encoding:utf-8
 from django.conf.urls import *
 from mysite.views import current_datetime
 # Descomenta las siguientes 2 lineas para habilitar el administrador:
